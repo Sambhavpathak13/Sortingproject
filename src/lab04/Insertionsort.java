@@ -36,6 +36,7 @@ public class Insertionsort {
 	        ob.sort(arr); 
 	  
 	        printArray(arr); 
+	        System.out.println("The system is running smoothly");
 	    } 
 
 	}
